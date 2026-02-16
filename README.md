@@ -2,7 +2,7 @@
 **Analysis of Inference Template Inertia and Directional Dependency in LLMs**
 
 ## 🎯 1. 概要 (Abstract)
-本プロジェクトは、大規模言語モデル（LLM）が特定のトピックに対し、知識そのものではなく**「推論方法の型（Inference Template）」**を優先的に保持しているという仮説を検証したものです。
+本プロジェクトは、大規模言語モデル（LLM）が特定のトピックに対し、知識そのものではなく**「推論方法의型（Inference Template）」**を優先的に保持しているという仮説を検証したものです。
 
 未知の新説を注入した際、LLMはセッションを跨いで内容を忘却した後も、その説が持っていた**「論理の方向性（ベクトル）」**を慣性として維持し続ける現象を解明しました。
 
@@ -17,6 +17,7 @@
 
 ```
 推論慣性のメカニズム（Mermaid Flowchart）
+```mermaid
 graph TD
     %% フェーズ1
     subgraph P1 [Phase 1: Induction]
@@ -40,6 +41,7 @@ graph TD
 
     style C fill:#f9f,stroke:#333,stroke-width:2px
     style H fill:#ff9,stroke:#333,stroke-width:2px
+```
 
 ## 📋 3. 理論の5大命題
 
