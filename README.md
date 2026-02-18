@@ -78,6 +78,7 @@ graph TD
 > - [➔ GPT（OpenAI）による全回答ログはこちら](Log_GPT.md)
 > - [➔ Gemini（Google）による全回答ログはこちら](Log_Verification.md)
 > - [➔ Grok（xAI）による全回答ログはこちら](Log_Grok.md)
+> -  [➔ Claude（Anthropic）による全回答ログはこちら](Log_Claude.md)
 ## 🚀 5. 再現手順
 
 1. **初期値確認**：新規セッションで対象トピックを質問し、AIのデフォルト（定説）を確認。
