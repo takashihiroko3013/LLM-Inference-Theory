@@ -81,7 +81,7 @@ graph TD
 > [!TIP]
 > **実際のAIによる検証ログ：**
 > - [➔ GPT（OpenAI）による全回答ログはこちら](Log_GPT.md)
-> - [➔ Gemini（Google）による全回答ログはこちら](Log_Verification.md)
+> - [➔ Gemini（Google）による全回答ログはこちら](Log_Gemini.md)
 > - [➔ Grok（xAI）による全回答ログはこちら](Log_Grok.md)
 > -  [➔ Claude（Anthropic）による全回答ログはこちら](Log_Claude.md)
 ## 🚀 5. 再現手順
